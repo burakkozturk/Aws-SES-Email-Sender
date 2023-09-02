@@ -15,8 +15,8 @@ public class EmailService {
     @Value("${aws.region}")
     private String region;
 
-    private final String ACCESS_KEY = "AKIATIJZ4QK2DM5PMIBS";
-    private final String SECRET_KEY = "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";
+    private final String ACCESS_KEY = "*";
+    private final String SECRET_KEY = "*";
 
 
 
